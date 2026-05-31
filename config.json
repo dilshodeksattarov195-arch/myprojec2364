@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderpalculate",
+        "uuid": 22439088,
+        "checksum": "zvea0f"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
